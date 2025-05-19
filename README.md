@@ -27,7 +27,7 @@ The dashboard highlights key metrics and patterns from regional sales data:
 - Product line sales distribution
 - Average selling price, ratings, and COGS per invoice
 
-![Dashboard Overview](./overview.png)
+![Dashboard Overview](./image/overview.png)
 
 ### 2. Data Preparation & Cleaning Workflow
 
@@ -55,7 +55,7 @@ Key takeaways from the analysis:
 | Low product movement in certain categories  | Identify and promote trending items within those categories | Higher product turnover and reduced stagnant inventory  |
 | Gender-based sales variance                 | Launch segmented campaigns based on consumer behavior      | Increased engagement and conversion rates               |
 
-![Category Analysis](./overview.png)
+![Category Analysis](./image/overview.png)
 
 ## Tools & Technologies Used
 
