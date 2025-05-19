@@ -28,6 +28,7 @@ The dashboard highlights key metrics and patterns from regional sales data:
 - Average selling price, ratings, and COGS per invoice
 
 ![Dashboard Overview](./image/overview.png)
+<div align="center">[Sales Revenues by Regions](https://ueheduvn-my.sharepoint.com/:u:/g/personal/31221025795_ueh_edu_vn/EbeeKYPByW5CkQvt6zgvzUUBVWJdDe3jT0r2fYwbN7tA5Q?e=zdE4jJ)</div>
 
 ### 2. Data Preparation & Cleaning Workflow
 
